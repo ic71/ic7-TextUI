@@ -2,9 +2,8 @@
 TextUI for fivem
 
 
-![TextUI](https://cdn.discordapp.com/attachments/1121116533817626655/1143609471390712008/image.png)
-![TextUI](https://cdn.discordapp.com/attachments/1121116533817626655/1143609392579752016/image.png)
-![TextUI](https://cdn.discordapp.com/attachments/1121116533817626655/1143583034801668227/image.png)
+![TextUI](https://cdn.discordapp.com/attachments/1143705141908885668/1143705142332489809/image.png?ex=66893a2a&is=6687e8aa&hm=e42a1352103fea66a222be5be67bcb425689500c9f4cb5e11b4badef1af03161&)
+
 
 # الاستخدام:
 
